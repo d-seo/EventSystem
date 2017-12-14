@@ -2,7 +2,7 @@
 Event System learned during game projects
 
 Inspired by 
-http://codereview.stackexchange.com/questions/14730/impossibly-fast-delegate-in-c11
+https://www.codeproject.com/Articles/11015/The-Impossibly-Fast-C-Delegates
 
 ## References:
 https://www.codeproject.com/Articles/11015/The-Impossibly-Fast-C-Delegates
