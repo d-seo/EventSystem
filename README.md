@@ -1,7 +1,7 @@
 # EventSystem
 Event System learned during game projects
 
-Inspired by 
+Inspired by and followed
 https://www.codeproject.com/Articles/11015/The-Impossibly-Fast-C-Delegates
 
 ## References:
