@@ -121,8 +121,7 @@ namespace CodeSample
     // Call the delegate const method 'stub'.
     template<class T, ReturnType(T::*TMethod)(Arguments...) const>
     inline static ReturnType DELEGATE_CALL_CONVENTION ConstMethodStub(void* object_ptr
-      , Arguments... args)
-    {
+      , Arguments... args) {
       const T* p = static_cast<T*>(object_ptr);
       return (p->*TMethod)(args...);
     }
